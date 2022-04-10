@@ -7,6 +7,7 @@ Struct adalah Object (Class) di  bahasa pemograman Golang karna Golang tidak mem
 namun Golang Memiliki Type data layaknya object yaitu STRUCT
 */
 
+//##Deklarasi Struct
 type Mahasiswa struct {
 	nama string
 	usia int
